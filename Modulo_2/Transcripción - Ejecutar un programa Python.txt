@@ -1,0 +1,57 @@
+[MÚSICA] Bienvenido de vuelta a la segunda semana
+del curso de simulación y modelamiento de procesos naturales. En este segundo module,
+aprenderemos a ejecutar un programa Python. La primer forma para ejecutar un programa Python
+es a través de la shell interactiva. La shell interactiva puede ser lanzada
+de una manera diferente dependiendo del sistema operativo que estés usando. Puede ser hecho al lanzar el intérprete
+de Python 3 interactivamente en Windows, o simplemente puedes ir a
+una terminal si estás usando MacOS o Linux. Todos los ejemplos acá
+están hechos en Linux. Bien, en Linux solo tienes que
+abrir una terminal y luego digital la palabra clave "python3". Si Python 3 está instalado, verás
+tres lineas que serán impresas. Una con la versión de Python 3, La cual el compilador ha producido y
+bla, bla, bla. Cosas no muy interesantes. Y luego tienes tres símbolos
+"mayor qué". Allí puedes comenzar a digitar tu código,
+entonces el primer ejemplo el cual es como una tradición cuando aprendes lenguajes de
+programación es el programa "Hola mundo". Lo que queremos hacer
+es que nuestro programa imprima en la pantalla
+la cadena "Hello World!" Y esto se hace en Python invocando
+el comando de imprimir, y poniendo una secuencia de
+caracteres entre los códigos. Entonces podemos ver en el ejemplo, fondo
+a la izquierda que imprime Hola Mundo entre comillas Y en azul tienes el resultado del comando
+el cual es "Hello World!" En el intérprete puedes también
+omitir el comando de imprimir y solamente digitar Hola Mundo entre comillas. La otra cosa que puedes hacer en tu
+shell interactiva es usarla como una calculadora, así que puedes introducir un número
+y hacer todas las operaciones básicas matemáticas entre sumarlas, dividirlas,
+multiplicarlas, y todo. Volveremos a esto luego. También puedes mirar que sucede cuando
+ejecutas una declaración en tu shell interactiva, por ejemplo, si
+quisiéramos imprimir las palabras hola mundo, pero nos olvidamos de ponerlas entre comillas,
+así como se muestra en el tercer ejemplo de la diapositiva, tenemos
+un mensaje de error en azul. Una vez que hayamos terminado de
+escribir nuestras piezas de código, probablemente queremos salir del intérprete, y
+ésto se hace usando la función "quit". Entonces solo digitas "quite", y paréntesis, digitas "return"
+y te sales del intérprete. Esta salida puede ser también hecha usando
+la combinación de las teclas Control y D. Entonces cuando tu programa se vuelva muy largo
+y no sea muy cómodo usar el interprete para ejecutar tus comandos, tú
+quizás quieras escribir scripts o un programa. Esto puede ser hecho de dos formas. La primer forma es usando tu editor
+favorito, como Notepad, VI o Emacs, No sé que editor te guste,
+igual que un editor normal de texto, o puedes usar un entorno de desarrollo
+integrado. En este curso,
+te proponemos que uses Spyder 3. El cual tiene una gran variedad de características. En la izquierda, bien, acá tienes
+una captura de pantalla del IDE de Spyder 3. En la izquierda tienes el editor,
+donde tu simplemente digitas tu texto. En la derecha tienes la salida. Y arriba tienes un botón para ejecutar,
+para cuando hayas terminado de escribir tu script,
+solo oprimes el botón de ejecutar y te dará la salida
+en el lado derecho de la pantalla. Éste procesa todas las buenas
+características de estos IDEs. Tiene colores en las palabras claves,
+detecta automáticamente los errores. Hace también indentación automática, lo cual
+es bastante práctico para Python. Así que es un muy buen paquete. Es código abierto, lo puedes descargar gratis
+en el sitio web de la diapositiva. Y nosotros realmente recomendamos usarlo. Tiene otra muy buena característica y es
+que viene con varios paquetes preinstalados, por ejemplo, Numpy viene instalado y
+Matplotlib también. Éstos serán usados en el curso. Así que, ¿cómo ejecutamos el programa que escribimos? Para hacerlo, solo necesitamos nuestra pieza de
+programa en un archivo y ejecutarlo. Si estás usando un editor estándar, Lo único que tienes que hacer es
+crear el archivo, nombrarlo de alguna manera, aquí es myscript.py. Meter las cosas que quieras
+poner en tu programa. Aquí está, imprime el Hello World,
+lo mismo que en nuestro primer ejemplo. Y luego, solo guardas el archivo y
+ejecutas el programa digitando python3, un espacio, y myscript.py. Y luego ves la salida en tu terminal. Con Spyder es más fácil, solo ejecutas
+el programa oprimiendo el botón de ejecutar. Buen, muchas gracias por tu atención, éste es el fin del modulo
+ejecutando programación en Python. En el siguiente modulo,
+hablaremos sobre variables y tipos de datos. musulmana fueran muy difíciles. [MÚSICA]

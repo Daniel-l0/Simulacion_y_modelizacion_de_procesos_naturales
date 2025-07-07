@@ -1,0 +1,2 @@
+#!/bin/bash
+for i in body*.dat; do echo "Processing file " $i; python make_img.py $i ${i%.dat}.png; done
