@@ -12,7 +12,7 @@ El curso ofrece una introducción a los métodos de modelización y simulación 
 
 * Movimiento de fluidos
 
-* Dinámica estelar
+* Dinámica y modelos de gas reticular
 
 * Evolución de poblaciones
 
